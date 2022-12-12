@@ -23,4 +23,14 @@ Here are some ideas to get you started:
 - 🔭 感兴趣的领域：架空世界创作，人造语言，游戏开发，计算机图形学，函数式编程
 - 👯 希望和很多善良的人交朋友
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sicusa&show_icons=true&bg_color=00000000&hide=contribs&border_color=EEEEEE2E)
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=sicusa&show_icons=true&hide=contribs&bg_color=00000000&border_color=EEEEEE2E"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=sicusa&show_icons=true&hide=contribs"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
