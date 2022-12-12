@@ -1,4 +1,4 @@
-### Sä isen~
+### Sä iuphlamlina aen（很高兴我们相遇）
 
 <!--
 **sicusa/sicusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
