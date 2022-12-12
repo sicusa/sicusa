@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" style="width: 350px; height: 350px" src="https://gilatod.art/wp-content/uploads/2022/12/AB8918333BF33F68B1D5724F23D548BC.gif"/>
+<img align="right" style="width: 250px; height: 250px" src="https://gilatod.art/wp-content/uploads/2022/12/AB8918333BF33F68B1D5724F23D548BC.gif"/>
 
 这里是 Phlam Sicusa（流云氏·西古萨，你可以直接叫我西古萨），是架空世界创作社群网站[「荏苒之境」](https://gilatod.art)的站长，为了将自己小说的世界展现出来，正在开发图形引擎 [Nagule](https://github.com/sicusa/Nagule)（星云天）。
 
