@@ -15,13 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" style="width: 250px; height: 250px" src="https://gilatod.art/wp-content/uploads/2022/12/AB8918333BF33F68B1D5724F23D548BC.gif"/>
-
 这里是 Phlam Sicusa（流云氏·西古萨，你可以直接叫我西古萨），是架空世界艺术社群[「荏苒之境」](https://gilatod.art)的站长，正在开发 3D 图形引擎 [Nagúlë](https://github.com/sicusa/Nagule)（星云天）。
 
 - 🌱 喜欢的语言：C#, Lua, Haskell
 - 🔭 感兴趣的领域：架空世界创作，人造语言，游戏开发，计算机图形学，函数式编程
-- 👯 希望和很多善良的人交朋友
 
 <picture>
 <source 
