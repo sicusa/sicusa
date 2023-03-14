@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 - 🌱 喜欢的语言：C#, Lua, Haskell。
 - 🔭 感兴趣的领域：架空世界创作，架空语言，游戏开发，计算机图形学，函数式编程。
-- 👯 希望和很多善良的人交朋友。
 
 <picture>
 <source 
