@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-这里是 Phlamcenth Sicusa<sup>流云氏·西古萨</sup>，~是来自[亚夜花园](https://gilatod.art/archives/portfolio/story-of-aedreamland)的旅行家~和[「荏苒之境」](https://gilatod.art/)的站长，正在开发 3D 图形引擎 [Nagúlë](https://github.com/sicusa/Nagule)<sup>星云天</sup>。
+这里是 Phlamcenth Sicusa<sup>流云氏·西古萨</sup>，~是来自[亚夜花园](https://gilatod.art/archives/portfolio/story-of-aedreamland)的旅行家~和[「荏苒之境」](https://gilatod.art/)的站长~正在开发 3D 图形引擎 [Nagúlë](https://github.com/sicusa/Nagule)<sup>星云天</sup>。
 
 - 🌱 喜欢的语言：C#, Lua, Haskell。
 - 🔭 感兴趣的领域：架空世界创作，架空语言，游戏开发，计算机图形学，函数式编程。
