@@ -19,15 +19,3 @@ Here are some ideas to get you started:
 
 - 🌱 喜欢的语言：C#, Lua, Haskell。
 - 🔭 感兴趣的领域：架空世界创作，[架空艺术语言](https://zh.wikipedia.org/wiki/藝術語言)，游戏开发，计算机图形学，函数式编程。
-
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=sicusa&show_icons=true&hide=contribs&bg_color=00000000&border_color=EEEEEE2E"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=sicusa&show_icons=true&hide=contribs"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=sicusa&show_icons=true&hide=contribs" />
-</picture>
